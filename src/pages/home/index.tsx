@@ -7,6 +7,8 @@ export function Home() {
       <span>This is my page with navigation</span>
       <br />
       <Link to='/about'>About</Link>
+      <br />
+      <Link to='/contacts'>Contacts</Link>
     </div>
   );
 }
